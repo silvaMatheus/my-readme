@@ -4,7 +4,7 @@
 
 Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my profile. I'm Front-end Developer, I have a great passion for user interface effects, animation and the creation of intuitive user experiences! 🚀🚀
 
- <img align="right" alt="GIF" src="animation_500_kndqd9b4.gif" width="500" height="320" /> 
+ <img align="right" alt="GIF" src="animation_500_kndqd9b4.gif" style="max-width:100%;height: 400px;width: 400px;" /> 
 
 **Talking about Personal Stuffs:**
 
