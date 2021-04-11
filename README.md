@@ -4,6 +4,8 @@
 
 Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my profile. I'm Front-end Developer, I have a great passion for user interface effects, animation and the creation of intuitive user experiences! 🚀🚀
 
+<!--  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/silvaMatheus/animation_500_kndqd9b4.gif" width="500" height="320" /> -->
+
 **Talking about Personal Stuffs:**
 
 - 🔭  I'm currently working at Accenture as a software developer
@@ -25,7 +27,7 @@ Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my p
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 
-### Bancos de dados
+### Database
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
@@ -35,7 +37,7 @@ Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my p
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
-### Ferramentas
+### Tools
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
