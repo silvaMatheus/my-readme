@@ -6,7 +6,7 @@ Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my p
 
 **Talking about Personal Stuffs:**
 
-- 🔭  I'm currently working at Accenture as a software developer
+- 🔭  I'm currently working Full-Stack developer. 
 - 🌱  I'm currently learning, ReactJS, React Native and NodeJS
 - ⚡ Curiosity: I love the spend time with my family and friend, cook with them, read about investment and games
 - 📫  How to contact me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-thomaz/)](https://www.linkedin.com/in/matheus-silva-064472157/) 
