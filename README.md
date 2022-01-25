@@ -1,23 +1,37 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left">
+
 
 Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my profile. I'm Full-Stack Developer, I have a great passion for user interface effects, animation and the creation of intuitive user experiences! 🚀🚀
-</p>
+
+<div style="display:flex; align-items:center;"> 
+📫  How to contact me:&nbsp; &nbsp;  &nbsp;  
+
+<div style="margin-top:15px">
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-thomaz/)](https://www.linkedin.com/in/matheus-silva-064472157/)
+</div>
+<div style="margin-top:15px">
+
+ &nbsp;   [![portfolio](https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=internet&logoColor=white&link=https://www.linkedin.com/in/leonardo-thomaz/)](https://matheusdeveloper.com/)
+
+ </div>
+</div>
+
 
 <img align="right" src="https://64.media.tumblr.com/c5d68e3f92b74f875e9eaa71e7afaf72/tumblr_pk86uikJgM1rhk4rn_400.gifv" width="420"/>
 
-**Talking about Personal Stuffs:**
+##  Talking about Personal Stuffs
 
 - 🔭   &nbsp; I'm currently working Full-Stack developer. 
 - 🌱   &nbsp; I'm currently learning, Web3, Blockchain and solidity
 - ⚡  &nbsp; Curiosity: I love the spend time with my family and friend, cook with them, read about investment and games
-- 📫  How to contact me:  [My webSite](https://matheusdeveloper.com/) or [Linkedin](https://www.linkedin.com/in/matheus-silva-064472157/)
+- 📫  How to contact me:  [My webSite]() or [Linkedin](https://www.linkedin.com/in/matheus-silva-064472157/)
 
 
 
 
-<h2>🚀 Some Tools I Use</h2>
+<h2> 🚀 Some Tools I Use</h2>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
