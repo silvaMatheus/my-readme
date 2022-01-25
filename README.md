@@ -1,11 +1,11 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left">
-<img align="right" src="https://64.media.tumblr.com/c5d68e3f92b74f875e9eaa71e7afaf72/tumblr_pk86uikJgM1rhk4rn_400.gifv" width="420"/>
 
 Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my profile. I'm Full-Stack Developer, I have a great passion for user interface effects, animation and the creation of intuitive user experiences! 🚀🚀
 </p>
 
+<img align="right" src="https://64.media.tumblr.com/c5d68e3f92b74f875e9eaa71e7afaf72/tumblr_pk86uikJgM1rhk4rn_400.gifv" width="420"/>
 
 **Talking about Personal Stuffs:**
 
