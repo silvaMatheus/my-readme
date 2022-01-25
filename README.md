@@ -2,12 +2,12 @@
 
 <br>
 
-Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my profile. I'm Front-end Developer, I have a great passion for user interface effects, animation and the creation of intuitive user experiences! 🚀🚀
+Hi, I'm [Matheus ](https://www.instagram.com/matheus__silva98/), welcome to my profile. I'm Full-Stack Developer, I have a great passion for user interface effects, animation and the creation of intuitive user experiences! 🚀🚀
 
 **Talking about Personal Stuffs:**
 
 - 🔭  I'm currently working Full-Stack developer. 
-- 🌱  I'm currently learning, ReactJS, React Native and NodeJS
+- 🌱  I'm currently learning, Web3, Blockchain and solidity
 - ⚡ Curiosity: I love the spend time with my family and friend, cook with them, read about investment and games
 - 📫  How to contact me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-thomaz/)](https://www.linkedin.com/in/matheus-silva-064472157/) 
 - [My webSite](https://matheusdeveloper.com/)
